@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "PAAM",
+  "description": "Personal mentor ai tool to summarize, create highlights and convert to text/pdf documents audio/video content.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "./assets/logo.jpg"
+  }
+}

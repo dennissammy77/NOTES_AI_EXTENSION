@@ -1,0 +1,19 @@
+{
+  "name": "paam",
+  "version": "1.0.0",
+  "description": "PAAM is an ai manager that will enable me upload audio files and PAAM will convert them to text and AI will highlight key areas of the audio as well as provide a summary of the audio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DENNIS SAMMY",
+  "license": "ISC",
+  "dependencies": {
+    "assemblyai": "^4.3.4",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0",
+    "openai": "^4.33.0",
+    "pdfkit": "^0.15.0"
+  }
+}
